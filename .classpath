@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Khang FIles/University/Nam 4 hk 1/phat trien ung dung/project nhom 7 de tai 4/QuanLyKaraokeNote7/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Khang FIles/University/Nam 4 hk 1/phat trien ung dung/project nhom 7 de tai 4/QuanLyKaraokeNote7/lib/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="C:/Khang FIles/University/Nam 4 hk 1/phat trien ung dung/project nhom 7 de tai 4/QuanLyKaraokeNote7/lib/swingx-core-1.6.2-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/duckh/Desktop/java libary/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/duckh/Desktop/java libary/JTimeChooser_0.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
